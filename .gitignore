@@ -1,2 +1,3 @@
-# this file is too big for regular githun storage
-hourly_44201_2014.csv
+# skip storing large data files
+*.csv
+*.rds
