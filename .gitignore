@@ -1,3 +1,4 @@
 # skip storing large data files
 *.csv
 *.rds
+*.txt
